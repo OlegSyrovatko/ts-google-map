@@ -1,0 +1,19 @@
+{
+  "name": "ts-google-map",
+  "version": "1.0.0",
+  "description": "about ts-google-map",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegSyrovatko/ts-google-map.git"
+  },
+  "author": "= <=>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegSyrovatko/ts-google-map/issues"
+  },
+  "homepage": "https://github.com/OlegSyrovatko/ts-google-map#readme"
+}
