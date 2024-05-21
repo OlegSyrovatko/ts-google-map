@@ -18,7 +18,7 @@
     "url": "https://github.com/OlegSyrovatko/ts-google-map/issues"
   },
   "homepage": "https://github.com/OlegSyrovatko/ts-google-map#readme",
-    "devDependencies": {
+  "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.4.5",
@@ -27,7 +27,7 @@
     "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
+    "axios": "^1.7.1",
     "class-validator": "^0.14.1"
   }
-
 }
